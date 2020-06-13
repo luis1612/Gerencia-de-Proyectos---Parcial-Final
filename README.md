@@ -11,7 +11,7 @@ TEMA: APLICACIÓN METODOLOGIA SCRUM EJERCICIO Desarrollo de una aplicación web 
 
 
 ## Entregables
-Etapa: Inicio del Proyecto.\
+Etapa: Inicio del Proyecto.
 
 - 1.Crear la Visión del Proyecto.
 - 2.Identificar los Roles Claves y Stakeholders.
